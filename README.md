@@ -45,7 +45,8 @@ O fluxo implementado segue as seguintes etapas:
 
 Abaixo está a representação visual do fluxo construído:
 
-images/AWS-Step-Functions-Workflow.PNG
+![AWS Step Functions Workflow](./images/aws.PNG)
+
 ---
 
 ###  Insights e Aprendizados
